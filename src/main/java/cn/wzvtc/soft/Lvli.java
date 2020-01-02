@@ -42,5 +42,4 @@ public class Lvli {
     public String getUrl() {
         return url;
     }
-
 }
